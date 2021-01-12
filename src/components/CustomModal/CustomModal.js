@@ -7,12 +7,6 @@ import styles from './CustomModal.style';
 
 ** Properties **
 
-1. title
-   Title of the Modal.
-
-2. description
-   Description in the modal if any.
-
 3. onClose
    Function to update the state in the parent component to close the modal.
 
