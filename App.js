@@ -1,13 +1,13 @@
 import React from 'react';
 import {SafeAreaView} from 'react-native';
 
-import Dashboard from './src/screens/Dashboard/Dashboard';
+import DashboardScreen from './src/screens/DashboardScreen/DashboardScreen';
 
 const App = () => {
   return (
     <>
       <SafeAreaView style={{flex: 1}}>
-        <Dashboard />
+        <DashboardScreen />
       </SafeAreaView>
     </>
   );
