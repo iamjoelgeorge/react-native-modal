@@ -7,10 +7,10 @@ import styles from './CustomModal.style';
 
 ** Properties **
 
-3. onClose
+1. onClose
    Function to update the state in the parent component to close the modal.
 
-4. isModalOpen
+2. isModalOpen
    Boolean value to open/close the modal.
    Default value is false.
 
