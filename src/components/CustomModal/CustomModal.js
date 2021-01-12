@@ -27,7 +27,7 @@ const CustomModal = (props) => {
 
   return (
     <Modal
-      animationType="slide"
+      animationType="fade"
       transparent={true}
       visible={isModalOpen}
       onRequestClose={onClose}>
