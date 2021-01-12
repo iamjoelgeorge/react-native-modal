@@ -27,7 +27,7 @@ const CustomModal = (props) => {
       onRequestClose={onClose}>
       <View style={styles.modal}>
         <View style={styles.body}>
-          <View style={styles.header}>
+          <View style={styles.actionBar}>
             <TouchableOpacity
               activeOpacity={0.8}
               style={styles.close}

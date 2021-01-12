@@ -16,7 +16,7 @@ export default StyleSheet.create({
     zIndex: 999,
     borderRadius: 10,
   },
-  header: {
+  actionBar: {
     width: '100%',
     flexDirection: 'row',
     justifyContent: 'flex-end',
